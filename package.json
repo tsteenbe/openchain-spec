@@ -1,0 +1,50 @@
+{
+    "name": "openchain-spec",
+    "version": "1.0.0",
+    "description": "The OpenChain specification defines a core set of requirements every quality compliance program must satisfy.",
+    "author": "Linux Foundation and its Contributors",
+    "contributors": [
+        {
+            "name": "Thomas Steenbergen",
+            "email": "opensource@steenbe.nl"
+        }
+    ],
+    "repostitory": {
+        "type": "git",
+        "url": "https://github.com/tsteenbe/openchain-spec"
+    },
+    "bugs": {
+        "url": "https://github.com/tsteenbe/openchain-spec/issues"
+    },
+    "keywords": [
+        "OpenChain",
+        "OpenChain Conformance Specification",
+        "SPDX",
+        "Software Package Data Exchange",
+        "specification",
+        "documentation",
+        "docs",
+        "linux foundation",
+        "oss",
+        "open source",
+        "software"
+    ],
+    "scripts": {
+        "preinstall": "(npm list gitbook-cli -g || npm install gitbook-cli -g) && (npm list gulp -g || npm install gulp -g)"
+    },
+    "devDependencies": {
+        "del": "^2.2.2",
+        "gulp": "^3.9.1",
+        "gulp-cheerio": "^0.6.2",
+        "gulp-filter": "^5.0.0",
+        "gulp-gh-pages": "^0.5.4",
+        "gulp-git": "^2.4.0",
+        "gulp-help": "^1.6.1",
+        "gulp-jsbeautifier": "^2.1.0",
+        "gulp-load-plugins": "^1.5.0",
+        "gulp-shell": "^0.6.3",
+        "gulp-remove-empty-lines": "^0.0.8",
+        "gulp-server-livereload": "^1.9.2"
+    },
+    "license": "CC-BY-4.0 AND MIT"
+}
