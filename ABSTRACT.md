@@ -1,4 +1,4 @@
-# The OpenChain ​Specification Version 1.0
+# The OpenChain ​Specification Version 1.1
 
 ![OpenChain logo](./img/OpenChain-logo.png)
 

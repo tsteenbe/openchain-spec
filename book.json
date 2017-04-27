@@ -2,7 +2,7 @@
     "author": "Linux Foundation and its Contributors",
     "title": "OpenChain ​Specification",
     "description": "The OpenChain specification defines a core set of requirements every quality compliance program must satisfy.",
-    "copyright": "&copy; 2016 Linux Foundation and its Contributors",
+    "copyright": "&copy; 2016 - 2017 Linux Foundation and its Contributors",
     "license": "CC-BY-4.0",
     "website": "https://www.openchainproject.org/",
     "keywords": "OpenChain, specification, licenses, license, linux foundation, id, identifiers, oss, open source, software",
@@ -22,7 +22,7 @@
     "variables": {
         "document": {
             "type": "​Specification",
-            "version": "1.0"
+            "version": "1.1"
         },
         "strings": {
             "license": "Licensed under the Creative Commons Attribution License 4.0 International. All other rights are expressly reserved.",

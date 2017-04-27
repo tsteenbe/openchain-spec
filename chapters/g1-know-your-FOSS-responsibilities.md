@@ -2,23 +2,24 @@
 
 ## G1: Know Your FOSS Responsibilities
 
-**1.1** **A written FOSS policy exists that governs FOSS license compliance of the Supplied Software distribution where, as a minimum, it must be internally communicated.**
+**1.1** **A written FOSS policy exists that governs FOSS license compliance of the Supplied Software distribution.** The policy must be internally communicated.
 
 **Verification Artifact(s):**
 
 ☐ 1.1.1 A documented FOSS policy exists.
 
-☐ 1.1.2 A documented procedure exists that makes all Software Staff aware of the existence of the FOSS policy (e.g., via training, internal wiki, or other practical communication method).
+☐ 1.1.2 A documented procedure exists that makes all Software Staff aware of the existence of
+the FOSS policy (e.g., via training, internal wiki, or other practical communication method).
 
 **Rationale:**
 
-Ensure steps were taken to create, record and make Software Staff aware of the existence of a FOSS policy. Although no requirements are provided here on what should be included in the policy, other requirements in other sections may.
+Ensure steps were taken to create, record and make Software Staff aware of the existence of a FOSS policy. Although no requirements are provided here on what should be included in the policy, other sections may impose requirements on the policy.
 
 **1.2** **Mandatory FOSS training for all Software Staff exists such that:**
 
 * **The training, as a minimum, covers the following topics:**
     * **The FOSS policy and where to find a copy;**
-    * **Basics of IP law pertaining to FOSS and FOSS licenses;**
+    * **Basics of Intellectual Property law pertaining to FOSS and FOSS licenses;**
     * **FOSS licensing concepts (including the concepts of permissive and copyleft licenses);**
     * **FOSS project licensing models;**
     * **Software Staff roles and responsibilities pertaining to FOSS compliance specifically and
@@ -37,3 +38,12 @@ Ensure steps were taken to create, record and make Software Staff aware of the e
 **Rationale:**
 
 Ensure the Software Staff have recently attended FOSS training and that a core set of relevant FOSS topics are covered. The intent is to ensure a core base level set of topics are covered but a typical training program would likely be more comprehensive than what is required here.
+
+**1.3** **A process exists for reviewing the Identified Licenses to determine the obligations, restrictions and rights granted by each license.**
+
+**Verification Artifact(s):**
+☐ 1.3.1 A documented procedure exists to review and document the obligations, restrictions and rights granted by each Identified License governing the Supplied Software.
+
+**Rationale:**
+
+To ensure a process exists for reviewing and identifying the license obligations for each Identified License for the various use cases.

@@ -1,6 +1,6 @@
 {
     "name": "openchain-spec",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "The OpenChain specification defines a core set of requirements every quality compliance program must satisfy.",
     "author": "Linux Foundation and its Contributors",
     "contributors": [

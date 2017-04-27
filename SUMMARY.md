@@ -10,3 +10,4 @@
     * [G4: Deliver FOSS Content Documentation and Artifacts](./chapters/g4-deliver-FOSS-content-documentation-and-artifacts.md)
     * [G5: Understand FOSS Community Engagement](./chapters/g5-understand-FOSS-community-engagement.md)
     * [G6: Certify Adherence to OpenChain Requirements](./chapters/g6-certify-adherence-to-OpenChain-requirements.md)
+* [Appendix I: Language Translations](./chapters/appendix-I-language-translations.md)

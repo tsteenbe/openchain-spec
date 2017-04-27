@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # Shell script for deploying HTML builds
-# to the gh-pages branch of github.com/spdx/spdx-spec
+# to the gh-pages branch of github.com/tsteenbe/openchain-spec
 #
 # Credits: https://stanislav.se/encrypt-github-deploy-key-with-travis-ci/
 #          https://gist.github.com/domenic/ec8b0fc8ab45f39403dd
