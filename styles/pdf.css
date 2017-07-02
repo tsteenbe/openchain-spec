@@ -1,38 +1,34 @@
 /* CSS for PDF */
-
 a {
     color: #00aebc;
 }
-
 h1 {
     font-size: 0.8em;
 }
-
-h1, h2, h3, h4, h5 {
+h1,
+h2,
+h3,
+h4,
+h5 {
     color: #52617D;
 }
-
 li.toc a {
     color: black;
 }
-
 li.toc span.inner {
     border: 0px;
     padding-bottom: 10px;
     margin-bottom: 20px;
 }
-
 li.toc span.inner a {
     color: black;
 }
-
 .pdf-header {
     margin-top: 20px;
     padding-bottom: 10px;
     border-bottom: 1px solid #eee;
     color: #aaa;
 }
-
 .pdf-header .left {
     float: left;
     font-size: 0.1em;
@@ -40,7 +36,6 @@ li.toc span.inner a {
     height: 15px;
     margin-top: 15px;
 }
-
 .pdf-header .center {
     display: inline-block;
     font-size: 0.1em;
@@ -49,7 +44,6 @@ li.toc span.inner a {
     height: 20px;
     text-align: center;
 }
-
 .pdf-header .right {
     float: right;
     font-size: 0.1em;
@@ -57,7 +51,6 @@ li.toc span.inner a {
     height: 15px;
     text-align: right;
 }
-
 .pdf-footer {
     margin-top: 20px;
     padding-top: 0px;
@@ -70,7 +63,6 @@ li.toc span.inner a {
     width: 0%;
     height: 20px;
 }
-
 .pdf-footer .center {
     display: inline-block;
     font-size: 0.1em;
@@ -79,13 +71,11 @@ li.toc span.inner a {
     height: 20px;
     text-align: center;
 }
-
 .pdf-footer .right {
     float: right;
     width: 4%;
     height: 20px;
 }
-
 /* page number */
 .pdf-footer .footer-pages-count {
     color: black;
