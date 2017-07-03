@@ -18,7 +18,7 @@
                 "chapters/introduction.html": ["(foss)", "(minimum)", "1)", "1.0", "2", "2)", "2013", "2016,", "3", "academia.", "accompani", "accord", "achiev", "alreadi", "although", "april", "artifact", "artifacts.", "associ", "base", "be", "began", "best", "chain", "chain,", "collabor", "collater", "community,", "completeness;", "complianc", "compliance.", "conform", "conforming.", "consequence,", "consid", "considerations.", "consist", "cost", "creat", "decreas", "defin", "definit", "deliv", "develop", "differ", "downstream", "each", "effect", "emerg", "enabl", "ensur", "establish", "evid", "evolv", "exchang", "exchanged.", "exist", "facilit", "fit", "flexibl", "focus", "follows:", "form", "formal", "foundat", "free/open", "frequent", "full", "given", "greater", "group", "group,", "guarante", "high", "i)", "ii)", "increas", "industry;", "inform", "information.", "initi", "introduc", "introduct", "key", "lack", "larg", "latter", "less", "level", "linux", "list", "manag", "matur", "met", "met,", "mission", "mission,", "mission:", "more", "number", "objectives.", "observ", "on", "open", "openchain", "openli", "oppos", "order", "organ", "organizations.", "participants,", "patterns:", "perform", "polici", "practic", "practition", "present", "probabl", "process", "program", "program,", "programs.", "programs;", "project.", "qualiti", "quality,", "redo", "remain", "repres", "requir", "result", "rework.", "satisfi", "satisfied.", "section", "set", "share", "signific", "significantli", "similar", "softwar", "sourc", "specif", "specification.", "standard", "still", "studi", "such", "suffici", "suppli", "tailor", "term", "throughout", "tier", "transact", "trust", "two", "upstream", "us", "verif", "version", "vision", "vision:", "whether", "work", "would:", "“how”", "“what”", "“when”", "“why”"],
                 "chapters/definitions.html": ["(but", "(e.g.,", "(free", "(opensource.org)", "(publish", "appropri", "artifact", "assign", "attribut", "code,", "complianc", "conform", "consid", "contractor", "contribut", "copi", "copyright", "creat", "data", "defines,", "definit", "deliv", "depend", "descript", "design", "developers,", "distribut", "employe", "engineers,", "evid", "exchang", "exist", "extern", "follow", "following:", "format", "forth.", "foss", "found", "foundation)", "free", "given", "group", "identifi", "includ", "individuals).", "inform", "initi", "inquires.", "liaison", "licens", "license.", "licenses,", "licenses.", "limit", "management.", "market", "meet", "method", "modif", "more", "notices,", "notifications,", "offer", "on", "open", "openchain", "order", "organ", "organization,", "packag", "package.", "parti", "person", "prepar", "product", "program", "provid", "publish", "qualiti", "receiv", "releas", "requir", "respons", "result", "satisfi", "satisfied.", "set", "similar", "softwar", "software)", "software.", "sourc", "spdx", "specif", "specification.", "staff", "standard", "subject", "such", "suppli", "third", "to)", "verif", "work", "written", "ww.spdx.org.", "–"],
                 "chapters/g1-know-your-FOSS-responsibilities.html": ["(e.g.,", "(includ", "(to", "1.1", "1.1.1", "1.1.2", "1.2", "1.2.1", "1.2.2", "1.2.3", "24", "85%", "abov", "allow", "although", "and/or", "artifact(s):", "attend", "awar", "base", "basic", "commun", "communicated.", "complet", "complianc", "compon", "comprehens", "concept", "consid", "contain", "copy;", "copyleft", "core", "cours", "course,", "cover", "covered.", "create,", "current).", "current,", "decks,", "definit", "distribut", "document", "ensur", "exist", "exists.", "find", "follow", "foss", "g1:", "general;", "govern", "here", "here.", "identifying,", "includ", "intent", "intern", "ip", "know", "last", "law", "level", "licens", "licenses);", "licenses;", "make", "mandatori", "materi", "materials).", "may.", "method", "method).", "minimum,", "models;", "month", "more", "onlin", "per", "permiss", "pertain", "polici", "policy,", "policy.", "practic", "procedur", "process", "program", "project", "provid", "rationale:", "recent", "record", "relev", "requir", "requirement.", "respons", "role", "satisfi", "section", "section.", "set", "slide", "softwar", "software.", "specif", "staff", "staff.", "step", "such", "suppli", "taken", "test", "that:", "topic", "topics:", "track", "train", "training,", "typic", "us", "verif", "via", "where,", "wiki,", "within", "written", "☐"],
-                "chapters/g2-assign-responsibility-for-achieving-compliance.html": ["(\"foss", "(e.g.,", "2.1", "2.1.1", "2.1.2", "2.2", "2.2.1", "2.2.2", "2.2.3", "2.2.4", "access", "achiev", "activ", "address", "allocated.", "allocated;", "and/or", "appropriate;", "artifact(s):", "assign", "assigned.", "avail", "budget", "certain", "commerci", "communication.", "complianc", "compliance.", "contact", "develop", "directory).", "document", "effect", "effort", "electron", "email", "ensur", "escal", "exist", "expertis", "extern", "external);", "foss", "foundation’", "function", "g2:", "group", "identifi", "identified.", "individual(s)", "individual.", "inquiri", "inquiries.", "inquiries;", "intern", "issu", "issues.", "legal", "liaiso", "liaison", "liaison\").", "linux", "maintain", "make", "manag", "mean", "name", "nmust", "open", "organ", "parti", "path", "perform", "persons,", "pertain", "polici", "procedur", "processes;**", "publicli", "rationale:", "reason", "receiv", "regard", "resolut", "resolution.", "resourced:", "respond", "respons", "role", "role(s)", "role(s).", "same", "sourc", "suffici", "third", "time", "verif", "via", "way", "☐"],
+                "chapters/g2-assign-responsibility-for-achieving-compliance.html": ["(\"foss", "(e.g.,", "2.1", "2.1.1", "2.1.2", "2.2", "2.2.1", "2.2.2", "2.2.3", "2.2.4", "access", "achiev", "activ", "address", "allocated.", "allocated;", "and/or", "appropriate;", "artifact(s):", "assign", "assigned.", "avail", "budget", "certain", "commerci", "communication.", "complianc", "compliance.", "contact", "develop", "directory).", "document", "effect", "effort", "electron", "email", "ensur", "escal", "exist", "expertis", "extern", "external);", "foss", "foundation’", "function", "g2:", "group", "identifi", "identified.", "individual(s)", "individual.", "inquiri", "inquiries.", "inquiries;", "intern", "issu", "issues.", "legal", "liaison", "liaison\").", "linux", "maintain", "make", "manag", "mean", "name", "open", "organ", "parti", "path", "perform", "persons,", "pertain", "polici", "procedur", "processes;**", "publicli", "rationale:", "reason", "receiv", "regard", "resolut", "resolution.", "resourced:", "respond", "respons", "role", "role(s)", "role(s).", "same", "sourc", "suffici", "third", "time", "verif", "via", "way", "☐"],
                 "chapters/g3-review-and-approve-FOSS-content.html": ["(and", "(note", "3.1", "3.1.1", "3.2", "3.2.1", "address", "appli", "applic", "approv", "archiv", "artifact(s):", "attribut", "below", "binari", "busi", "capabl", "case", "caus", "compon", "component’", "comprised.", "construct", "contain", "content", "copyleft", "depend", "distribut", "document", "each", "encount", "ensur", "evid", "exhaustive,", "exist", "follow", "followed.", "form", "foss", "g3:", "handl", "identifi", "identify,", "identifying,", "implement", "includ", "incompat", "integr", "interact", "inventori", "licens", "licenses)", "list", "modifi", "oblig", "organization):", "organization’", "part", "practices.", "procedur", "process", "program", "rationale:", "record", "requir", "respect", "restrict", "result", "review", "robust", "serv", "softwar", "software,", "software.", "sourc", "staff", "such", "suffici", "suppli", "support", "systemat", "term", "track", "track,", "trigger", "typic", "under", "understand", "us", "verif", "within", "☐"],
                 "chapters/g4-deliver-FOSS-content-documentation-and-artifacts.html": ["(but", "(e.g.,", "(whichev", "4.1", "4.1.1", "4.1.2", "accompani", "archiv", "artifact", "artifact(s):", "attribut", "build", "code", "code,", "collect", "complet", "complianc", "content", "copi", "copyright", "correspond", "deliv", "describ", "distribut", "document", "documents),", "easili", "ensur", "exist", "follow", "foss", "g4:", "govern", "identifi", "includ", "instruct", "legal", "licens", "licenses.", "limit", "long", "longer).", "modif", "notic", "notices,", "notif", "offer", "plan", "prepar", "procedur", "process", "promin", "rationale:", "requir", "required:", "retriev", "script", "softwar", "software.", "sourc", "spdx", "suppli", "to)", "verif", "written", "☐"],
                 "chapters/g5-understand-FOSS-community-engagement.html": ["(but", "(e.g.,", "5.1", "5.1.1", "5.1.2", "5.2", "5.2.1", "access", "adher", "all,", "all.", "approv", "artifact(s):", "awar", "behalf", "busi", "clear.", "code", "commun", "communicated.", "conduct", "confirm", "consider", "considerations:", "contribut", "contributions,", "describ", "develop", "document", "employe", "engag", "ensur", "equival", "exist", "exists;", "follow", "foss", "foss.", "g5:", "given", "govern", "includ", "interaction,", "intern", "legal", "licens", "limit", "made", "make", "met.", "method).", "minimum,", "nevertheless", "organ", "overal", "part", "permit", "polici", "policy,", "policy.", "posit", "practic", "procedur", "process", "process.", "project", "project’", "provid", "publicli", "rational", "rationale:", "reason", "requir", "respect", "review", "separ", "situat", "softwar", "specif", "staff", "such", "technic", "to)", "training,", "understand", "understood", "verif", "via", "where,", "wiki,", "written", "☐"],
@@ -182,7 +182,7 @@
                             "docs": {
                                 "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                     "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                    "tf": 0.005235602094240838
+                                    "tf": 0.005263157894736842
                                 }
                             },
                             ".": {
@@ -190,7 +190,7 @@
                                     "docs": {
                                         "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                             "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                            "tf": 0.005235602094240838
+                                            "tf": 0.005263157894736842
                                         }
                                     }
                                 },
@@ -198,7 +198,7 @@
                                     "docs": {
                                         "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                             "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                            "tf": 0.005235602094240838
+                                            "tf": 0.005263157894736842
                                         }
                                     }
                                 },
@@ -209,7 +209,7 @@
                             "docs": {
                                 "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                     "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                    "tf": 0.005235602094240838
+                                    "tf": 0.005263157894736842
                                 }
                             },
                             ".": {
@@ -217,7 +217,7 @@
                                     "docs": {
                                         "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                             "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                            "tf": 0.005235602094240838
+                                            "tf": 0.005263157894736842
                                         }
                                     }
                                 },
@@ -225,7 +225,7 @@
                                     "docs": {
                                         "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                             "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                            "tf": 0.005235602094240838
+                                            "tf": 0.005263157894736842
                                         }
                                     }
                                 },
@@ -233,7 +233,7 @@
                                     "docs": {
                                         "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                             "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                            "tf": 0.005235602094240838
+                                            "tf": 0.005263157894736842
                                         }
                                     }
                                 },
@@ -241,7 +241,7 @@
                                     "docs": {
                                         "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                             "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                            "tf": 0.005235602094240838
+                                            "tf": 0.005263157894736842
                                         }
                                     }
                                 },
@@ -566,7 +566,7 @@
                                             },
                                             "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                 "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                "tf": 0.010471204188481676
+                                                "tf": 0.010526315789473684
                                             },
                                             "chapters/g4-deliver-FOSS-content-documentation-and-artifacts.html": {
                                                 "ref": "chapters/g4-deliver-FOSS-content-documentation-and-artifacts.html",
@@ -704,7 +704,7 @@
                                         "docs": {
                                             "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                 "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                "tf": 0.005235602094240838
+                                                "tf": 0.005263157894736842
                                             }
                                         }
                                     }
@@ -865,7 +865,7 @@
                                                                     },
                                                                     "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                                         "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                                        "tf": 0.010471204188481676
+                                                                        "tf": 0.010526315789473684
                                                                     },
                                                                     "chapters/g3-review-and-approve-FOSS-content.html": {
                                                                         "ref": "chapters/g3-review-and-approve-FOSS-content.html",
@@ -1044,7 +1044,7 @@
                                         "docs": {
                                             "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                 "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                "tf": 0.005235602094240838
+                                                "tf": 0.005263157894736842
                                             },
                                             "chapters/g5-understand-FOSS-community-engagement.html": {
                                                 "ref": "chapters/g5-understand-FOSS-community-engagement.html",
@@ -1069,7 +1069,7 @@
                                             },
                                             "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                 "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                "tf": 2.005235602094241
+                                                "tf": 2.0052631578947366
                                             }
                                         }
                                     }
@@ -1084,7 +1084,7 @@
                                     "docs": {
                                         "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                             "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                            "tf": 0.005235602094240838
+                                            "tf": 0.005263157894736842
                                         }
                                     }
                                 }
@@ -1166,7 +1166,7 @@
                                                         "docs": {
                                                             "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                                 "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                                "tf": 0.005235602094240838
+                                                                "tf": 0.005263157894736842
                                                             }
                                                         }
                                                     },
@@ -1174,7 +1174,7 @@
                                                         "docs": {
                                                             "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                                 "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                                "tf": 0.005235602094240838
+                                                                "tf": 0.005263157894736842
                                                             }
                                                         }
                                                     }
@@ -1245,7 +1245,7 @@
                                                                 "docs": {
                                                                     "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                                         "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                                        "tf": 0.005235602094240838
+                                                                        "tf": 0.005263157894736842
                                                                     }
                                                                 }
                                                             }
@@ -1320,7 +1320,7 @@
                                             },
                                             "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                 "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                "tf": 2.031413612565445
+                                                "tf": 2.031578947368421
                                             }
                                         },
                                         "e": {
@@ -1331,7 +1331,7 @@
                                                     "docs": {
                                                         "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                             "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                            "tf": 0.005235602094240838
+                                                            "tf": 0.005263157894736842
                                                         }
                                                     }
                                                 }
@@ -1358,7 +1358,7 @@
                                             },
                                             "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                 "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                "tf": 0.005235602094240838
+                                                "tf": 0.005263157894736842
                                             }
                                         }
                                     }
@@ -1398,7 +1398,7 @@
                                             "docs": {
                                                 "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                     "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                    "tf": 0.005235602094240838
+                                                    "tf": 0.005263157894736842
                                                 },
                                                 "chapters/g3-review-and-approve-FOSS-content.html": {
                                                     "ref": "chapters/g3-review-and-approve-FOSS-content.html",
@@ -1439,7 +1439,7 @@
                                     "docs": {
                                         "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                             "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                            "tf": 0.010471204188481676
+                                            "tf": 0.010526315789473684
                                         }
                                     }
                                 }
@@ -1499,7 +1499,7 @@
                                         "docs": {
                                             "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                 "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                "tf": 0.005235602094240838
+                                                "tf": 0.005263157894736842
                                             }
                                         }
                                     }
@@ -1782,7 +1782,7 @@
                                                                         "docs": {
                                                                             "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                                                 "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                                                "tf": 0.005235602094240838
+                                                                                "tf": 0.005263157894736842
                                                                             }
                                                                         }
                                                                     }
@@ -1805,7 +1805,7 @@
                                                 "docs": {
                                                     "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                         "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                        "tf": 0.010471204188481676
+                                                        "tf": 0.010526315789473684
                                                     }
                                                 }
                                             }
@@ -1843,7 +1843,7 @@
                                                         },
                                                         "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                             "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                            "tf": 2.073298429319372
+                                                            "tf": 2.0736842105263156
                                                         },
                                                         "chapters/g4-deliver-FOSS-content-documentation-and-artifacts.html": {
                                                             "ref": "chapters/g4-deliver-FOSS-content-documentation-and-artifacts.html",
@@ -1860,7 +1860,7 @@
                                                                 },
                                                                 "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                                     "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                                    "tf": 0.010471204188481676
+                                                                    "tf": 0.010526315789473684
                                                                 }
                                                             }
                                                         }
@@ -2249,7 +2249,7 @@
                                             "docs": {
                                                 "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                     "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                    "tf": 0.010471204188481676
+                                                    "tf": 0.010526315789473684
                                                 }
                                             }
                                         }
@@ -2740,7 +2740,7 @@
                                             "docs": {
                                                 "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                     "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                    "tf": 0.005235602094240838
+                                                    "tf": 0.005263157894736842
                                                 }
                                             }
                                         }
@@ -3000,7 +3000,7 @@
                                                 },
                                                 "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                     "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                    "tf": 0.005235602094240838
+                                                    "tf": 0.005263157894736842
                                                 },
                                                 "chapters/g5-understand-FOSS-community-engagement.html": {
                                                     "ref": "chapters/g5-understand-FOSS-community-engagement.html",
@@ -3181,7 +3181,7 @@
                                                             "docs": {
                                                                 "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                                     "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                                    "tf": 0.005235602094240838
+                                                                    "tf": 0.005263157894736842
                                                                 }
                                                             }
                                                         }
@@ -3243,7 +3243,7 @@
                                                     },
                                                     "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                         "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                        "tf": 0.015706806282722512
+                                                        "tf": 0.015789473684210527
                                                     },
                                                     "chapters/g3-review-and-approve-FOSS-content.html": {
                                                         "ref": "chapters/g3-review-and-approve-FOSS-content.html",
@@ -3326,7 +3326,7 @@
                                             },
                                             "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                 "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                "tf": 0.005235602094240838
+                                                "tf": 0.005263157894736842
                                             }
                                         }
                                     }
@@ -3340,7 +3340,7 @@
                                         "docs": {
                                             "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                 "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                "tf": 0.005235602094240838
+                                                "tf": 0.005263157894736842
                                             }
                                         }
                                     }
@@ -3387,7 +3387,7 @@
                                                 "docs": {
                                                     "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                         "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                        "tf": 0.010471204188481676
+                                                        "tf": 0.010526315789473684
                                                     }
                                                 }
                                             }
@@ -3454,7 +3454,7 @@
                                         },
                                         "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                             "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                            "tf": 0.015706806282722512
+                                            "tf": 0.015789473684210527
                                         },
                                         "chapters/g3-review-and-approve-FOSS-content.html": {
                                             "ref": "chapters/g3-review-and-approve-FOSS-content.html",
@@ -3509,7 +3509,7 @@
                                             },
                                             "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                 "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                "tf": 0.005235602094240838
+                                                "tf": 0.005263157894736842
                                             }
                                         },
                                         "a": {
@@ -3522,7 +3522,7 @@
                                                         "docs": {
                                                             "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                                 "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                                "tf": 0.005235602094240838
+                                                                "tf": 0.005263157894736842
                                                             }
                                                         }
                                                     }
@@ -3649,7 +3649,7 @@
                                     "docs": {
                                         "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                             "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                            "tf": 0.005235602094240838
+                                            "tf": 0.005263157894736842
                                         }
                                     }
                                 }
@@ -3688,7 +3688,7 @@
                                         },
                                         "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                             "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                            "tf": 0.010471204188481676
+                                            "tf": 0.010526315789473684
                                         },
                                         "chapters/g3-review-and-approve-FOSS-content.html": {
                                             "ref": "chapters/g3-review-and-approve-FOSS-content.html",
@@ -3807,7 +3807,7 @@
                                     "docs": {
                                         "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                             "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                            "tf": 0.010471204188481676
+                                            "tf": 0.010526315789473684
                                         }
                                     }
                                 }
@@ -3866,7 +3866,7 @@
                                                 "docs": {
                                                     "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                         "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                        "tf": 0.005235602094240838
+                                                        "tf": 0.005263157894736842
                                                     }
                                                 }
                                             }
@@ -3922,7 +3922,7 @@
                                     },
                                     "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                         "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                        "tf": 0.1099476439790576
+                                        "tf": 0.11052631578947368
                                     },
                                     "chapters/g3-review-and-approve-FOSS-content.html": {
                                         "ref": "chapters/g3-review-and-approve-FOSS-content.html",
@@ -3993,7 +3993,7 @@
                                                             "docs": {
                                                                 "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                                     "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                                    "tf": 0.005235602094240838
+                                                                    "tf": 0.005263157894736842
                                                                 }
                                                             }
                                                         }
@@ -4296,7 +4296,7 @@
                                                 "docs": {
                                                     "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                         "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                        "tf": 0.015706806282722512
+                                                        "tf": 0.015789473684210527
                                                     }
                                                 }
                                             }
@@ -4325,7 +4325,7 @@
                             "docs": {
                                 "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                     "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                    "tf": 2.005235602094241
+                                    "tf": 2.0052631578947366
                                 }
                             }
                         }
@@ -4470,7 +4470,7 @@
                                         },
                                         "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                             "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                            "tf": 0.005235602094240838
+                                            "tf": 0.005263157894736842
                                         }
                                     },
                                     ",": {
@@ -4635,7 +4635,7 @@
                                                     },
                                                     "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                         "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                        "tf": 0.031413612565445025
+                                                        "tf": 0.031578947368421054
                                                     },
                                                     "chapters/g3-review-and-approve-FOSS-content.html": {
                                                         "ref": "chapters/g3-review-and-approve-FOSS-content.html",
@@ -4654,7 +4654,7 @@
                                                             "docs": {
                                                                 "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                                     "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                                    "tf": 0.005235602094240838
+                                                                    "tf": 0.005263157894736842
                                                                 }
                                                             }
                                                         }
@@ -4770,7 +4770,7 @@
                                                                     "docs": {
                                                                         "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                                             "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                                            "tf": 0.010471204188481676
+                                                                            "tf": 0.010526315789473684
                                                                         }
                                                                     }
                                                                 }
@@ -4780,7 +4780,7 @@
                                                             "docs": {
                                                                 "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                                     "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                                    "tf": 0.005235602094240838
+                                                                    "tf": 0.005263157894736842
                                                                 }
                                                             }
                                                         }
@@ -4810,7 +4810,7 @@
                                             },
                                             "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                 "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                "tf": 0.015706806282722512
+                                                "tf": 0.015789473684210527
                                             },
                                             "chapters/g5-understand-FOSS-community-engagement.html": {
                                                 "ref": "chapters/g5-understand-FOSS-community-engagement.html",
@@ -5060,7 +5060,7 @@
                                             "docs": {
                                                 "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                     "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                    "tf": 0.005235602094240838
+                                                    "tf": 0.005263157894736842
                                                 }
                                             },
                                             "e": {
@@ -5071,7 +5071,7 @@
                                                         "docs": {
                                                             "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                                 "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                                "tf": 0.010471204188481676
+                                                                "tf": 0.010526315789473684
                                                             }
                                                         }
                                                     },
@@ -5079,7 +5079,7 @@
                                                         "docs": {
                                                             "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                                 "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                                "tf": 0.005235602094240838
+                                                                "tf": 0.005263157894736842
                                                             }
                                                         }
                                                     }
@@ -5175,7 +5175,7 @@
                                 "docs": {
                                     "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                         "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                        "tf": 0.005235602094240838
+                                        "tf": 0.005263157894736842
                                     }
                                 },
                                 "e": {
@@ -5186,7 +5186,7 @@
                                             "docs": {
                                                 "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                     "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                    "tf": 0.005235602094240838
+                                                    "tf": 0.005263157894736842
                                                 }
                                             }
                                         }
@@ -5340,7 +5340,7 @@
                                         },
                                         "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                             "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                            "tf": 0.005235602094240838
+                                            "tf": 0.005263157894736842
                                         }
                                     }
                                 }
@@ -5368,12 +5368,7 @@
                                 "s": {
                                     "docs": {},
                                     "o": {
-                                        "docs": {
-                                            "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
-                                                "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                "tf": 0.005235602094240838
-                                            }
-                                        },
+                                        "docs": {},
                                         "n": {
                                             "docs": {
                                                 "chapters/definitions.html": {
@@ -5382,7 +5377,7 @@
                                                 },
                                                 "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                     "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                    "tf": 0.020942408376963352
+                                                    "tf": 0.02631578947368421
                                                 }
                                             },
                                             "\"": {
@@ -5393,7 +5388,7 @@
                                                         "docs": {
                                                             "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                                 "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                                "tf": 0.005235602094240838
+                                                                "tf": 0.005263157894736842
                                                             }
                                                         }
                                                     }
@@ -5527,7 +5522,7 @@
                                     "docs": {
                                         "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                             "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                            "tf": 0.010471204188481676
+                                            "tf": 0.010526315789473684
                                         },
                                         "chapters/g4-deliver-FOSS-content-documentation-and-artifacts.html": {
                                             "ref": "chapters/g4-deliver-FOSS-content-documentation-and-artifacts.html",
@@ -5592,7 +5587,7 @@
                                     },
                                     "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                         "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                        "tf": 0.005235602094240838
+                                        "tf": 0.005263157894736842
                                     },
                                     "chapters/g5-understand-FOSS-community-engagement.html": {
                                         "ref": "chapters/g5-understand-FOSS-community-engagement.html",
@@ -5617,7 +5612,7 @@
                                         },
                                         "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                             "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                            "tf": 0.010471204188481676
+                                            "tf": 0.010526315789473684
                                         }
                                     },
                                     "e": {
@@ -5763,7 +5758,7 @@
                                                 "docs": {
                                                     "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                         "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                        "tf": 0.005235602094240838
+                                                        "tf": 0.005263157894736842
                                                     }
                                                 }
                                             }
@@ -5876,7 +5871,7 @@
                                 "docs": {
                                     "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                         "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                        "tf": 0.005235602094240838
+                                        "tf": 0.005263157894736842
                                     }
                                 }
                             }
@@ -6160,24 +6155,7 @@
                                 "docs": {
                                     "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                         "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                        "tf": 0.005235602094240838
-                                    }
-                                }
-                            }
-                        }
-                    },
-                    "m": {
-                        "docs": {},
-                        "u": {
-                            "docs": {},
-                            "s": {
-                                "docs": {},
-                                "t": {
-                                    "docs": {
-                                        "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
-                                            "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                            "tf": 0.005235602094240838
-                                        }
+                                        "tf": 0.005263157894736842
                                     }
                                 }
                             }
@@ -6273,7 +6251,7 @@
                                     },
                                     "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                         "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                        "tf": 0.005235602094240838
+                                        "tf": 0.005263157894736842
                                     }
                                 },
                                 "c": {
@@ -6358,7 +6336,7 @@
                                         },
                                         "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                             "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                            "tf": 0.005235602094240838
+                                            "tf": 0.005263157894736842
                                         },
                                         "chapters/g5-understand-FOSS-community-engagement.html": {
                                             "ref": "chapters/g5-understand-FOSS-community-engagement.html",
@@ -6793,7 +6771,7 @@
                                                                 "docs": {
                                                                     "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                                         "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                                        "tf": 0.005235602094240838
+                                                                        "tf": 0.005263157894736842
                                                                     }
                                                                 }
                                                             }
@@ -6823,7 +6801,7 @@
                                                     },
                                                     "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                         "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                        "tf": 0.015706806282722512
+                                                        "tf": 0.015789473684210527
                                                     },
                                                     "chapters/g3-review-and-approve-FOSS-content.html": {
                                                         "ref": "chapters/g3-review-and-approve-FOSS-content.html",
@@ -6996,7 +6974,7 @@
                                         },
                                         "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                             "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                            "tf": 0.005235602094240838
+                                            "tf": 0.005263157894736842
                                         }
                                     },
                                     "c": {
@@ -7060,7 +7038,7 @@
                                 "docs": {
                                     "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                         "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                        "tf": 0.010471204188481676
+                                        "tf": 0.010526315789473684
                                     }
                                 }
                             }
@@ -7117,7 +7095,7 @@
                                                 },
                                                 "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                     "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                    "tf": 0.005235602094240838
+                                                    "tf": 0.005263157894736842
                                                 }
                                             }
                                         }
@@ -7141,7 +7119,7 @@
                                                 "docs": {
                                                     "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                         "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                        "tf": 0.005235602094240838
+                                                        "tf": 0.005263157894736842
                                                     }
                                                 }
                                             }
@@ -7188,7 +7166,7 @@
                                                 },
                                                 "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                     "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                    "tf": 0.005235602094240838
+                                                    "tf": 0.005263157894736842
                                                 }
                                             }
                                         }
@@ -7217,7 +7195,7 @@
                                             },
                                             "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                 "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                "tf": 0.005235602094240838
+                                                "tf": 0.005263157894736842
                                             },
                                             "chapters/g5-understand-FOSS-community-engagement.html": {
                                                 "ref": "chapters/g5-understand-FOSS-community-engagement.html",
@@ -7297,7 +7275,7 @@
                                                 "docs": {
                                                     "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                         "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                        "tf": 0.010471204188481676
+                                                        "tf": 0.010526315789473684
                                                     },
                                                     "chapters/g5-understand-FOSS-community-engagement.html": {
                                                         "ref": "chapters/g5-understand-FOSS-community-engagement.html",
@@ -7527,7 +7505,7 @@
                                                 },
                                                 "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                     "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                    "tf": 2.0366492146596857
+                                                    "tf": 2.036842105263158
                                                 }
                                             }
                                         },
@@ -7535,7 +7513,7 @@
                                             "docs": {
                                                 "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                     "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                    "tf": 0.005235602094240838
+                                                    "tf": 0.005263157894736842
                                                 }
                                             }
                                         }
@@ -7570,7 +7548,7 @@
                                             "docs": {
                                                 "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                     "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                    "tf": 0.005235602094240838
+                                                    "tf": 0.005263157894736842
                                                 }
                                             },
                                             "i": {
@@ -7583,7 +7561,7 @@
                                                             "docs": {
                                                                 "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                                     "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                                    "tf": 0.005235602094240838
+                                                                    "tf": 0.005263157894736842
                                                                 }
                                                             }
                                                         }
@@ -7607,7 +7585,7 @@
                                                         "docs": {
                                                             "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                                 "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                                "tf": 0.005235602094240838
+                                                                "tf": 0.005263157894736842
                                                             }
                                                         }
                                                     }
@@ -7717,7 +7695,7 @@
                                             },
                                             "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                 "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                "tf": 0.010471204188481676
+                                                "tf": 0.010526315789473684
                                             }
                                         }
                                     }
@@ -7788,7 +7766,7 @@
                                         "docs": {
                                             "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                 "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                "tf": 0.015706806282722512
+                                                "tf": 0.015789473684210527
                                             },
                                             "chapters/g5-understand-FOSS-community-engagement.html": {
                                                 "ref": "chapters/g5-understand-FOSS-community-engagement.html",
@@ -7809,7 +7787,7 @@
                                         "docs": {
                                             "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                 "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                "tf": 0.005235602094240838
+                                                "tf": 0.005263157894736842
                                             }
                                         }
                                     }
@@ -7904,7 +7882,7 @@
                                                             },
                                                             "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                                 "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                                "tf": 0.010471204188481676
+                                                                "tf": 0.010526315789473684
                                                             },
                                                             "chapters/g3-review-and-approve-FOSS-content.html": {
                                                                 "ref": "chapters/g3-review-and-approve-FOSS-content.html",
@@ -7944,7 +7922,7 @@
                                     },
                                     "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                         "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                        "tf": 0.015706806282722512
+                                        "tf": 0.015789473684210527
                                     }
                                 },
                                 "(": {
@@ -7955,14 +7933,14 @@
                                             "docs": {
                                                 "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                     "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                    "tf": 0.005235602094240838
+                                                    "tf": 0.005263157894736842
                                                 }
                                             },
                                             ".": {
                                                 "docs": {
                                                     "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                         "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                        "tf": 0.010471204188481676
+                                                        "tf": 0.010526315789473684
                                                     }
                                                 }
                                             }
@@ -8336,7 +8314,7 @@
                                         },
                                         "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                             "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                            "tf": 0.005235602094240838
+                                            "tf": 0.005263157894736842
                                         },
                                         "chapters/g3-review-and-approve-FOSS-content.html": {
                                             "ref": "chapters/g3-review-and-approve-FOSS-content.html",
@@ -8647,7 +8625,7 @@
                                                 },
                                                 "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                                     "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                                    "tf": 0.005235602094240838
+                                                    "tf": 0.005263157894736842
                                                 },
                                                 "chapters/g3-review-and-approve-FOSS-content.html": {
                                                     "ref": "chapters/g3-review-and-approve-FOSS-content.html",
@@ -8752,7 +8730,7 @@
                                 "docs": {
                                     "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                         "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                        "tf": 0.005235602094240838
+                                        "tf": 0.005263157894736842
                                     }
                                 }
                             }
@@ -8829,7 +8807,7 @@
                                         },
                                         "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                             "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                            "tf": 0.005235602094240838
+                                            "tf": 0.005263157894736842
                                         }
                                     }
                                 }
@@ -9100,7 +9078,7 @@
                                 "docs": {
                                     "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                         "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                        "tf": 0.005235602094240838
+                                        "tf": 0.005263157894736842
                                     }
                                 }
                             }
@@ -9336,7 +9314,7 @@
                                         },
                                         "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                             "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                            "tf": 0.010471204188481676
+                                            "tf": 0.010526315789473684
                                         },
                                         "chapters/g3-review-and-approve-FOSS-content.html": {
                                             "ref": "chapters/g3-review-and-approve-FOSS-content.html",
@@ -9394,7 +9372,7 @@
                                 },
                                 "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                     "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                    "tf": 0.005235602094240838
+                                    "tf": 0.005263157894736842
                                 },
                                 "chapters/g5-understand-FOSS-community-engagement.html": {
                                     "ref": "chapters/g5-understand-FOSS-community-engagement.html",
@@ -9607,7 +9585,7 @@
                             "docs": {
                                 "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                                     "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                                    "tf": 0.010471204188481676
+                                    "tf": 0.010526315789473684
                                 }
                             }
                         },
@@ -9776,7 +9754,7 @@
                         },
                         "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
                             "ref": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
-                            "tf": 0.031413612565445025
+                            "tf": 0.031578947368421054
                         },
                         "chapters/g3-review-and-approve-FOSS-content.html": {
                             "ref": "chapters/g3-review-and-approve-FOSS-content.html",
@@ -9797,9 +9775,9 @@
                     }
                 }
             },
-            "length": 870
+            "length": 868
         },
-        "corpusTokens": ["(\"foss", "(and", "(but", "(cc", "(e.g.,", "(foss)", "(free", "(includ", "(minimum)", "(note", "(opensource.org)", "(publish", "(to", "(whichev", "1)", "1.0", "1.0.", "1.1", "1.1.1", "1.1.2", "1.2", "1.2.1", "1.2.2", "1.2.3", "2", "2)", "2.1", "2.1.1", "2.1.2", "2.2", "2.2.1", "2.2.2", "2.2.3", "2.2.4", "2013", "2016", "2016,", "24", "3", "3.1", "3.1.1", "3.2", "3.2.1", "4.0", "4.0).", "4.1", "4.1.1", "4.1.2", "5.1", "5.1.1", "5.1.2", "5.2", "5.2.1", "6.1", "6.1.1", "85%", "abov", "abstract", "academia.", "access", "accompani", "accord", "achiev", "activ", "address", "adher", "affirm", "all,", "all.", "allocated.", "allocated;", "allow", "alreadi", "although", "and/or", "appli", "applic", "appropri", "appropriate;", "approv", "april", "archiv", "artifact", "artifact(s):", "artifacts.", "assign", "assigned.", "associ", "attend", "attribut", "avail", "awar", "base", "basic", "be", "began", "behalf", "below", "best", "binari", "budget", "build", "busi", "capabl", "case", "caus", "certain", "certifi", "certified,", "certified.", "chain", "chain,", "chain.", "clear.", "code", "code,", "collabor", "collater", "collect", "commerci", "common", "commun", "communicated.", "communication.", "community,", "complet", "completeness;", "complianc", "compliance.", "compon", "component’", "comprehens", "comprised.", "concept", "conduct", "confirm", "conform", "conforming,", "conforming.", "consequence,", "consid", "consider", "considerations.", "considerations:", "consist", "consistent.", "construct", "contact", "contain", "content", "contractor", "contribut", "contributions,", "contributors.", "copi", "copies,", "copy;", "copyleft", "copyright", "core", "correspond", "cost", "cours", "course,", "cover", "covered.", "creat", "create,", "creativ", "criteria", "current).", "current,", "data", "decks,", "declar", "decreas", "defin", "defines,", "definit", "deliv", "deliver", "depend", "describ", "descript", "design", "develop", "developers,", "differ", "directory).", "distribut", "document", "documents),", "downstream", "each", "easili", "effect", "effici", "effort", "electron", "email", "emerg", "employe", "enabl", "encount", "engag", "engineers,", "ensur", "equival", "escal", "establish", "evid", "evolv", "exchang", "exchanged.", "exhaustive,", "exist", "exists.", "exists;", "expertis", "expressli", "extern", "external);", "facilit", "find", "fit", "flexibl", "focus", "follow", "followed.", "following:", "follows:", "form", "formal", "format", "forth.", "foss", "foss.", "found", "foundat", "foundation)", "foundation’", "free", "free/open", "frequent", "full", "function", "g1:", "g2:", "g3:", "g4:", "g5:", "g6:", "general;", "given", "govern", "greater", "group", "group,", "guarante", "handl", "help", "here", "here.", "high", "i)", "identifi", "identified.", "identify,", "identifying,", "ii)", "implement", "includ", "incompat", "increas", "individual(s)", "individual.", "individuals).", "industri", "industry;", "inform", "information.", "initi", "inquires.", "inquiri", "inquiries.", "inquiries;", "instruct", "integr", "intent", "interact", "interaction,", "intern", "introduc", "introduct", "inventori", "ip", "issu", "issues.", "key", "know", "lack", "larg", "last", "latter", "law", "legal", "less", "level", "liaiso", "liaison", "liaison\").", "licens", "license.", "licenses)", "licenses);", "licenses,", "licenses.", "licenses;", "limit", "linux", "list", "long", "longer).", "made", "maintain", "make", "manag", "management.", "mandatori", "market", "materi", "materials).", "matur", "may.", "mean", "meet", "meet.", "mere", "met", "met,", "met.", "method", "method).", "minimum,", "mission", "mission,", "mission:", "models;", "modif", "modifi", "month", "more", "name", "nevertheless", "nmust", "notic", "notices,", "notif", "notifications,", "number", "objectives.", "oblig", "observ", "of:", "offer", "on", "onlin", "open", "openchain", "openli", "oppos", "order", "organ", "organization):", "organization,", "organizations.", "organization’", "others.", "overal", "packag", "package.", "part", "parti", "participants,", "path", "patterns:", "per", "perform", "permiss", "permit", "person", "persons,", "pertain", "plan", "polici", "policy,", "policy.", "posit", "practic", "practices.", "practition", "prepar", "present", "probabl", "procedur", "process", "process.", "processes;**", "product", "program", "program,", "program.", "programs.", "programs;", "project", "project.", "project’", "promin", "provid", "publicli", "publish", "qualiti", "quality,", "rational", "rationale:", "reason", "receiv", "recent", "record", "redo", "regard", "releas", "relev", "remain", "repres", "requir", "require.", "required:", "requirement.", "reserved.", "resolut", "resolution.", "resourced:", "respect", "respond", "respons", "restrict", "result", "retriev", "review", "rework.", "right", "robust", "role", "role(s)", "role(s).", "same", "satisfi", "satisfied.", "script", "scripts,", "section", "section.", "separ", "serv", "set", "share", "signific", "significantli", "similar", "simpler,", "situat", "slide", "softwar", "software)", "software,", "software.", "sourc", "spdx", "specif", "specification.", "staff", "staff.", "standard", "step", "still", "studi", "subject", "subset", "such", "suffici", "suppli", "support", "systemat", "tailor", "taken", "technic", "term", "test", "that:", "thing", "third", "throughout", "tier", "time", "to)", "topic", "topics:", "track", "track,", "train", "training,", "transact", "trigger", "trust", "two", "typic", "under", "understand", "understood", "upstream", "us", "verif", "version", "via", "vision", "vision:", "warrant", "way", "where,", "whether", "wiki,", "within", "work", "would:", "written", "ww.spdx.org.", "©", "​specif", "–", "“how”", "“what”", "“when”", "“why”", "☐"],
+        "corpusTokens": ["(\"foss", "(and", "(but", "(cc", "(e.g.,", "(foss)", "(free", "(includ", "(minimum)", "(note", "(opensource.org)", "(publish", "(to", "(whichev", "1)", "1.0", "1.0.", "1.1", "1.1.1", "1.1.2", "1.2", "1.2.1", "1.2.2", "1.2.3", "2", "2)", "2.1", "2.1.1", "2.1.2", "2.2", "2.2.1", "2.2.2", "2.2.3", "2.2.4", "2013", "2016", "2016,", "24", "3", "3.1", "3.1.1", "3.2", "3.2.1", "4.0", "4.0).", "4.1", "4.1.1", "4.1.2", "5.1", "5.1.1", "5.1.2", "5.2", "5.2.1", "6.1", "6.1.1", "85%", "abov", "abstract", "academia.", "access", "accompani", "accord", "achiev", "activ", "address", "adher", "affirm", "all,", "all.", "allocated.", "allocated;", "allow", "alreadi", "although", "and/or", "appli", "applic", "appropri", "appropriate;", "approv", "april", "archiv", "artifact", "artifact(s):", "artifacts.", "assign", "assigned.", "associ", "attend", "attribut", "avail", "awar", "base", "basic", "be", "began", "behalf", "below", "best", "binari", "budget", "build", "busi", "capabl", "case", "caus", "certain", "certifi", "certified,", "certified.", "chain", "chain,", "chain.", "clear.", "code", "code,", "collabor", "collater", "collect", "commerci", "common", "commun", "communicated.", "communication.", "community,", "complet", "completeness;", "complianc", "compliance.", "compon", "component’", "comprehens", "comprised.", "concept", "conduct", "confirm", "conform", "conforming,", "conforming.", "consequence,", "consid", "consider", "considerations.", "considerations:", "consist", "consistent.", "construct", "contact", "contain", "content", "contractor", "contribut", "contributions,", "contributors.", "copi", "copies,", "copy;", "copyleft", "copyright", "core", "correspond", "cost", "cours", "course,", "cover", "covered.", "creat", "create,", "creativ", "criteria", "current).", "current,", "data", "decks,", "declar", "decreas", "defin", "defines,", "definit", "deliv", "deliver", "depend", "describ", "descript", "design", "develop", "developers,", "differ", "directory).", "distribut", "document", "documents),", "downstream", "each", "easili", "effect", "effici", "effort", "electron", "email", "emerg", "employe", "enabl", "encount", "engag", "engineers,", "ensur", "equival", "escal", "establish", "evid", "evolv", "exchang", "exchanged.", "exhaustive,", "exist", "exists.", "exists;", "expertis", "expressli", "extern", "external);", "facilit", "find", "fit", "flexibl", "focus", "follow", "followed.", "following:", "follows:", "form", "formal", "format", "forth.", "foss", "foss.", "found", "foundat", "foundation)", "foundation’", "free", "free/open", "frequent", "full", "function", "g1:", "g2:", "g3:", "g4:", "g5:", "g6:", "general;", "given", "govern", "greater", "group", "group,", "guarante", "handl", "help", "here", "here.", "high", "i)", "identifi", "identified.", "identify,", "identifying,", "ii)", "implement", "includ", "incompat", "increas", "individual(s)", "individual.", "individuals).", "industri", "industry;", "inform", "information.", "initi", "inquires.", "inquiri", "inquiries.", "inquiries;", "instruct", "integr", "intent", "interact", "interaction,", "intern", "introduc", "introduct", "inventori", "ip", "issu", "issues.", "key", "know", "lack", "larg", "last", "latter", "law", "legal", "less", "level", "liaison", "liaison\").", "licens", "license.", "licenses)", "licenses);", "licenses,", "licenses.", "licenses;", "limit", "linux", "list", "long", "longer).", "made", "maintain", "make", "manag", "management.", "mandatori", "market", "materi", "materials).", "matur", "may.", "mean", "meet", "meet.", "mere", "met", "met,", "met.", "method", "method).", "minimum,", "mission", "mission,", "mission:", "models;", "modif", "modifi", "month", "more", "name", "nevertheless", "notic", "notices,", "notif", "notifications,", "number", "objectives.", "oblig", "observ", "of:", "offer", "on", "onlin", "open", "openchain", "openli", "oppos", "order", "organ", "organization):", "organization,", "organizations.", "organization’", "others.", "overal", "packag", "package.", "part", "parti", "participants,", "path", "patterns:", "per", "perform", "permiss", "permit", "person", "persons,", "pertain", "plan", "polici", "policy,", "policy.", "posit", "practic", "practices.", "practition", "prepar", "present", "probabl", "procedur", "process", "process.", "processes;**", "product", "program", "program,", "program.", "programs.", "programs;", "project", "project.", "project’", "promin", "provid", "publicli", "publish", "qualiti", "quality,", "rational", "rationale:", "reason", "receiv", "recent", "record", "redo", "regard", "releas", "relev", "remain", "repres", "requir", "require.", "required:", "requirement.", "reserved.", "resolut", "resolution.", "resourced:", "respect", "respond", "respons", "restrict", "result", "retriev", "review", "rework.", "right", "robust", "role", "role(s)", "role(s).", "same", "satisfi", "satisfied.", "script", "scripts,", "section", "section.", "separ", "serv", "set", "share", "signific", "significantli", "similar", "simpler,", "situat", "slide", "softwar", "software)", "software,", "software.", "sourc", "spdx", "specif", "specification.", "staff", "staff.", "standard", "step", "still", "studi", "subject", "subset", "such", "suffici", "suppli", "support", "systemat", "tailor", "taken", "technic", "term", "test", "that:", "thing", "third", "throughout", "tier", "time", "to)", "topic", "topics:", "track", "track,", "train", "training,", "transact", "trigger", "trust", "two", "typic", "under", "understand", "understood", "upstream", "us", "verif", "version", "via", "vision", "vision:", "warrant", "way", "where,", "whether", "wiki,", "within", "work", "would:", "written", "ww.spdx.org.", "©", "​specif", "–", "“how”", "“what”", "“when”", "“why”", "☐"],
         "pipeline": ["stopWordFilter", "stemmer"]
     },
     "store": {
@@ -9825,31 +9803,31 @@
             "url": "chapters/g1-know-your-FOSS-responsibilities.html",
             "title": "G1: Know Your FOSS Responsibilities",
             "keywords": "",
-            "body": "Requirements\nG1: Know Your FOSS Responsibilities\n1.1 A written FOSS policy exists that governs FOSS license compliance of the Supplied Software distribution where, as a minimum, it must be internally communicated.\nVerification Artifact(s):\n☐ 1.1.1 A documented FOSS policy exists.\n☐ 1.1.2 A documented procedure exists that makes all Software Staff aware of the existence of\nthe FOSS policy (e.g., via training, internal wiki, or other practical communication method).\nRationale:\nEnsure steps were taken to create, record and make Software Staff aware of the existence of a FOSS policy. Although no requirements are provided here on what should be included in the policy, other requirements in other sections may.\n1.2 Mandatory FOSS training for all Software Staff exists such that:\n\nThe training, as a minimum, covers the following topics:\nThe FOSS policy and where to find a copy;\nBasics of IP law pertaining to FOSS and FOSS licenses;\nFOSS licensing concepts (including the concepts of permissive and copyleft licenses);\nFOSS project licensing models;\nSoftware Staff roles and responsibilities pertaining to FOSS compliance specifically and\nthe FOSS policy in general; and\nProcess for identifying, recording and/or tracking of FOSS components contained in Supplied Software.\n\n\nSoftware Staff must have completed FOSS training within the last 24 months (to be\nconsidered current). A test may be used to allow Software Staff to satisfy the training requirement.\n\nVerification Artifact(s):\n☐ 1.2.1 FOSS course materials covering the above topics exists (e.g., slide decks, online course,\nor other training materials).\n☐ 1.2.2 Method of tracking the completion of the course for all Software Staff.\n☐ 1.2.3 At least 85% of all Software Staff are current, as per definition in above section.\nRationale:\nEnsure the Software Staff have recently attended FOSS training and that a core set of relevant FOSS topics are covered. The intent is to ensure a core base level set of topics are covered but a typical training program would likely be more comprehensive than what is required here.\n"
+            "body": "Requirements\nG1: Know Your FOSS Responsibilities\n1.1 A written FOSS policy exists that governs FOSS license compliance of the Supplied Software distribution where, as a minimum, it must be internally communicated.\nVerification Artifact(s):\n☐ 1.1.1 A documented FOSS policy exists.\n☐ 1.1.2 A documented procedure exists that makes all Software Staff aware of the existence of the FOSS policy (e.g., via training, internal wiki, or other practical communication method).\nRationale:\nEnsure steps were taken to create, record and make Software Staff aware of the existence of a FOSS policy. Although no requirements are provided here on what should be included in the policy, other requirements in other sections may.\n1.2 Mandatory FOSS training for all Software Staff exists such that:\n\nThe training, as a minimum, covers the following topics:\nThe FOSS policy and where to find a copy;\nBasics of IP law pertaining to FOSS and FOSS licenses;\nFOSS licensing concepts (including the concepts of permissive and copyleft licenses);\nFOSS project licensing models;\nSoftware Staff roles and responsibilities pertaining to FOSS compliance specifically and\nthe FOSS policy in general; and\nProcess for identifying, recording and/or tracking of FOSS components contained in Supplied Software.\n\n\nSoftware Staff must have completed FOSS training within the last 24 months (to be considered current). A test may be used to allow Software Staff to satisfy the training requirement.\n\nVerification Artifact(s):\n☐ 1.2.1 FOSS course materials covering the above topics exists (e.g., slide decks, online course, or other training materials).\n☐ 1.2.2 Method of tracking the completion of the course for all Software Staff.\n☐ 1.2.3 At least 85% of all Software Staff are current, as per definition in above section.\nRationale:\nEnsure the Software Staff have recently attended FOSS training and that a core set of relevant FOSS topics are covered. The intent is to ensure a core base level set of topics are covered but a typical training program would likely be more comprehensive than what is required here.\n"
         },
         "chapters/g2-assign-responsibility-for-achieving-compliance.html": {
             "url": "chapters/g2-assign-responsibility-for-achieving-compliance.html",
             "title": "G2: Assign Responsibility for Achieving Compliance",
             "keywords": "",
-            "body": "G2: Assign Responsibility for Achieving Compliance\n2.1 Identify FOSS Liaison Function (\"FOSS Liaison\").\n\nAssign individual(s) responsible for receiving external FOSS inquiries;\nFOSS Liaiso nmust make commercially reasonable efforts to respond to FOSS compliance inquiries as appropriate; and\nPublicly identify means of contacting the FOSS Liaison by way of electronic communication.\n\nVerification Artifact(s):\n☐ 2.1.1 FOSS Liaison function is publicly identified (e.g., via an email address and/or the Linux\nFoundation’s Open Compliance Directory).\n☐ 2.1.2 A documented procedure exists that assigns responsibility for receiving FOSS\ncompliance inquiries.\nRationale:\nEnsure there is a reasonable way for third parties to contact the organization with regard to FOSS compliance inquiries.\n2.2 Identify Internal FOSS Compliance Role(s).\n\nAssign individual(s) responsible for managing internal FOSS compliance. The FOSS Compliance role and the FOSS Liaison can be the same individual.\nFOSS compliance management activity is sufficiently resourced:\nTime to perform the role has been allocated; and\nCommercially reasonable budget has been allocated.\n\n\nAssign responsibilities to develop and maintain FOSS compliance policy and processes;**\nLegal expertise pertaining to FOSS compliance is accessible to the FOSS Compliance role (e.g., could be internal or external); and\nEscalation path is available for resolution of FOSS compliance issues.\n\nVerification Artifact(s):\n☐ 2.2.1 Name of persons, group or function in FOSS Compliance role(s) identified.\n☐ 2.2.2 Identify source of legal expertise available to FOSS Compliance role(s).\n☐ 2.2.3 A documented procedure exists that assigns responsibilities for FOSS compliance.\n☐ 2.2.4 A documented procedure exists that identifies an escalation path for issue resolution.\nRationale:\nEnsure certain FOSS responsibilities have been effectively assigned.\n"
+            "body": "G2: Assign Responsibility for Achieving Compliance\n2.1 Identify FOSS Liaison Function (\"FOSS Liaison\").\n\nAssign individual(s) responsible for receiving external FOSS inquiries;\nFOSS Liaison must make commercially reasonable efforts to respond to FOSS compliance inquiries as appropriate; and\nPublicly identify means of contacting the FOSS Liaison by way of electronic communication.\n\nVerification Artifact(s):\n☐ 2.1.1 FOSS Liaison function is publicly identified (e.g., via an email address and/or the Linux Foundation’s Open Compliance Directory).\n☐ 2.1.2 A documented procedure exists that assigns responsibility for receiving FOSS compliance inquiries.\nRationale:\nEnsure there is a reasonable way for third parties to contact the organization with regard to FOSS compliance inquiries.\n2.2 Identify Internal FOSS Compliance Role(s).\n\nAssign individual(s) responsible for managing internal FOSS compliance. The FOSS Compliance role and the FOSS Liaison can be the same individual.\nFOSS compliance management activity is sufficiently resourced:\nTime to perform the role has been allocated; and\nCommercially reasonable budget has been allocated.\n\n\nAssign responsibilities to develop and maintain FOSS compliance policy and processes;**\nLegal expertise pertaining to FOSS compliance is accessible to the FOSS Compliance role (e.g., could be internal or external); and\nEscalation path is available for resolution of FOSS compliance issues.\n\nVerification Artifact(s):\n☐ 2.2.1 Name of persons, group or function in FOSS Compliance role(s) identified.\n☐ 2.2.2 Identify source of legal expertise available to FOSS Compliance role(s).\n☐ 2.2.3 A documented procedure exists that assigns responsibilities for FOSS compliance.\n☐ 2.2.4 A documented procedure exists that identifies an escalation path for issue resolution.\nRationale:\nEnsure certain FOSS responsibilities have been effectively assigned.\n"
         },
         "chapters/g3-review-and-approve-FOSS-content.html": {
             "url": "chapters/g3-review-and-approve-FOSS-content.html",
             "title": "G3: Review and Approve FOSS Content",
             "keywords": "",
-            "body": "G3: Review and Approve FOSS Content\n3.1 A process exists for identifying, tracking and archiving a list of all FOSS components (and their respective Identified Licenses) from which Supplied Software is comprised.\nVerification Artifact(s):\n☐ 3.1.1 A documented procedure exists used to identify, track, and archive a list of FOSS components and their Identified Licenses from which the Supplied Software is comprised.\nRationale:\nTo ensure a process exists for identifying and listing all FOSS components used to construct the Supplied Software. This inventory must exist to support the systematic review of each component’s license terms to understand their respective distribution obligations and restrictions applicable to the Supplied Software. The recorded inventory also serves as evidence that the process was followed.\n3.2 The FOSS program must be capable of handling typical FOSS use cases encountered by Software Staff for Supplied Software, which may include the following use cases - when parts of the Supplied Software (note that the below list is neither exhaustive, nor may all of the below use cases apply depending on the organization):\n\nare distributed in binary form\nare distributed in source form\nare integrated with other FOSS such that it may trigger copyleft obligations\ncontains modified FOSS\ncontains FOSS or other software under an incompatible license interacting with other components within the Supplied Software\ncontains FOSS with attribution requirements\n\nVerification Artifact(s):\n☐ 3.2.1 A process has been implemented that is capable of addressing the typical FOSS use\ncases encountered by Software Staff for Supplied Software.\nRationale:\nTo cause the FOSS program to be sufficiently robust to address that organization’s typical use\ncases as a result of that organization’s business practices.\n"
+            "body": "G3: Review and Approve FOSS Content\n3.1 A process exists for identifying, tracking and archiving a list of all FOSS components (and their respective Identified Licenses) from which Supplied Software is comprised.\nVerification Artifact(s):\n☐ 3.1.1 A documented procedure exists used to identify, track, and archive a list of FOSS components and their Identified Licenses from which the Supplied Software is comprised.\nRationale:\nTo ensure a process exists for identifying and listing all FOSS components used to construct the Supplied Software. This inventory must exist to support the systematic review of each component’s license terms to understand their respective distribution obligations and restrictions applicable to the Supplied Software. The recorded inventory also serves as evidence that the process was followed.\n3.2 The FOSS program must be capable of handling typical FOSS use cases encountered by Software Staff for Supplied Software, which may include the following use cases - when parts of the Supplied Software (note that the below list is neither exhaustive, nor may all of the below use cases apply depending on the organization):\n\nare distributed in binary form\nare distributed in source form\nare integrated with other FOSS such that it may trigger copyleft obligations\ncontains modified FOSS\ncontains FOSS or other software under an incompatible license interacting with other components within the Supplied Software\ncontains FOSS with attribution requirements\n\nVerification Artifact(s):\n☐ 3.2.1 A process has been implemented that is capable of addressing the typical FOSS use cases encountered by Software Staff for Supplied Software.\nRationale:\nTo cause the FOSS program to be sufficiently robust to address that organization’s typical use cases as a result of that organization’s business practices.\n"
         },
         "chapters/g4-deliver-FOSS-content-documentation-and-artifacts.html": {
             "url": "chapters/g4-deliver-FOSS-content-documentation-and-artifacts.html",
             "title": "G4: Deliver FOSS Content Documentation and Artifacts",
             "keywords": "",
-            "body": "G4: Deliver FOSS Content Documentation and Artifacts\n4.1 Prepare the following Distributed Compliance Artifacts to accompany the Supplied Software as required by the corresponding Identified Licenses which might include (but is not limited to) the required:\n\ncopyright notices\ncopies of Identified Licenses \nmodification notifications\nattribution notices\nprominent notices\nsource code\nrequired build instructions and scripts\nwritten offers\n\nVerification Artifact(s):\n☐ 4.1.1 A documented procedure exists describing a process that ensures the Distributed\nCompliance Artifacts be distributed with Supplied Software as required by the Identified\nLicenses.\n☐ 4.1.2 Copies of the Distributed Compliance Artifacts of the Supplied Software are archived\nand easily retrievable (e.g., legal notices, source code, SPDX documents), and the archive is planned to exist for at least as long as the Supplied Software is offered or as required by the Identified Licenses (whichever is longer).\nRationale:\nEnsure the complete collection of compliance artifacts accompany the Supplied Software as required by the Identified Licenses that govern the Supplied Software.\n"
+            "body": "G4: Deliver FOSS Content Documentation and Artifacts\n4.1 Prepare the following Distributed Compliance Artifacts to accompany the Supplied Software as required by the corresponding Identified Licenses which might include (but is not limited to) the required:\n\ncopyright notices\ncopies of Identified Licenses \nmodification notifications\nattribution notices\nprominent notices\nsource code\nrequired build instructions and scripts\nwritten offers\n\nVerification Artifact(s):\n☐ 4.1.1 A documented procedure exists describing a process that ensures the Distributed Compliance Artifacts be distributed with Supplied Software as required by the Identified Licenses.\n☐ 4.1.2 Copies of the Distributed Compliance Artifacts of the Supplied Software are archived and easily retrievable (e.g., legal notices, source code, SPDX documents), and the archive is planned to exist for at least as long as the Supplied Software is offered or as required by the Identified Licenses (whichever is longer).\nRationale:\nEnsure the complete collection of compliance artifacts accompany the Supplied Software as required by the Identified Licenses that govern the Supplied Software.\n"
         },
         "chapters/g5-understand-FOSS-community-engagement.html": {
             "url": "chapters/g5-understand-FOSS-community-engagement.html",
             "title": "G5: Understand FOSS Community Engagement",
             "keywords": "",
-            "body": "G5: Understand FOSS Community Engagement\n5.1 A written policy exists that governs contributions to publicly accessible FOSS projects by employees on behalf of the organization where, as a minimum, it must be internally communicated.\nVerification Artifact(s):\n☐ 5.1.1 A documented FOSS contribution policy exists;\n☐ 5.1.2 A documented procedure exists that makes all Software Staff aware of the existence of\nthe FOSS contribution policy (e.g., via training, internal wiki, or other practical communication method).\nRationale:\nEnsure an organization has given reasonable consideration to developing a policy with respect to publicly contributing to FOSS. The FOSS contribution policy can be made a part of the overall FOSS policy of an organization or be its own separate policy. In the situation where contributions are not permitted at all, a policy should exist making that position clear.\n5.2 Provided the FOSS contribution policy permits such contributions, a process exists for confirming contributions adhere to the FOSS contribution policy, which might include (but is not limited to) the following considerations:\n\nlegal approval for license considerations\nbusiness rationale or approval\ntechnical review of code to be contributed\ncommunity engagement and interaction, including a project’s Code of Conduct or equivalent\nadherence to project-specific contribution requirements\n\nVerification Artifact(s):\n☐ 5.2.1 Provided the FOSS contribution policy permits contributions, a documented procedure\nexists that describes the FOSS contribution process.\nRationale:\nEnsure an organization has a documented process for how the organization publicly contributes FOSS. A policy may exist such that contributions are not permitted at all. In that specific situation it is understood that no process may exist and this requirement would nevertheless be met.\n"
+            "body": "G5: Understand FOSS Community Engagement\n5.1 A written policy exists that governs contributions to publicly accessible FOSS projects by employees on behalf of the organization where, as a minimum, it must be internally communicated.\nVerification Artifact(s):\n☐ 5.1.1 A documented FOSS contribution policy exists;\n☐ 5.1.2 A documented procedure exists that makes all Software Staff aware of the existence of the FOSS contribution policy (e.g., via training, internal wiki, or other practical communication method).\nRationale:\nEnsure an organization has given reasonable consideration to developing a policy with respect to publicly contributing to FOSS. The FOSS contribution policy can be made a part of the overall FOSS policy of an organization or be its own separate policy. In the situation where contributions are not permitted at all, a policy should exist making that position clear.\n5.2 Provided the FOSS contribution policy permits such contributions, a process exists for confirming contributions adhere to the FOSS contribution policy, which might include (but is not limited to) the following considerations:\n\nlegal approval for license considerations\nbusiness rationale or approval\ntechnical review of code to be contributed\ncommunity engagement and interaction, including a project’s Code of Conduct or equivalent\nadherence to project-specific contribution requirements\n\nVerification Artifact(s):\n☐ 5.2.1 Provided the FOSS contribution policy permits contributions, a documented procedure exists that describes the FOSS contribution process.\nRationale:\nEnsure an organization has a documented process for how the organization publicly contributes FOSS. A policy may exist such that contributions are not permitted at all. In that specific situation it is understood that no process may exist and this requirement would nevertheless be met.\n"
         },
         "chapters/g6-certify-adherence-to-OpenChain-requirements.html": {
             "url": "chapters/g6-certify-adherence-to-OpenChain-requirements.html",
